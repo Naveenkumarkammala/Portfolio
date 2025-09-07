@@ -1,7 +1,7 @@
 # Naveen Kumar Kammala Portfolio
 
 ## Preview
-![127 0 0 1_5500_](https://github.com/user-attachments/assets/af1e7e21-5a41-4387-8845-199f3d384159)
+
 
 
 ## Overview
